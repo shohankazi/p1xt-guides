@@ -11,8 +11,8 @@ Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./p
 If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
 
 - [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
+- [tier X - Programming Prep](#tier-x---programming-prep-prep)
+- [tier 0 - Web Development](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
